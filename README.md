@@ -1,6 +1,9 @@
 <!-- @format -->
 
 ### Hai~~, I'm DionisiusMikha! 👋
+---
+
+<img src="https://komarev.com/ghpvc/?username=DionisiusMikha&label=Visitor&color=0e75b6&style=flat" alt="arkandash" />
 
 - 🔭 I’m currently studying on institut Sains dan Teknologi Terpadu Surabaya
 - 🌱 I’m currently learning Web Development & UI UX Design for mobile and dekstop
