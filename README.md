@@ -1,6 +1,6 @@
 <!-- @format -->
 
-### Hai~~, I'm DionisiusMikha! 👋
+### Hai~~, I'm Dionisius Mikha! 👋
 ---
 
 <img src="https://komarev.com/ghpvc/?username=DionisiusMikha&label=Visitor&color=0e75b6&style=flat" alt="DionisiusMikha" />
