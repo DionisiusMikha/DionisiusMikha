@@ -6,7 +6,7 @@
 <img src="https://komarev.com/ghpvc/?username=DionisiusMikha&label=Visitor&color=0e75b6&style=flat" alt="DionisiusMikha" />
 
 - 🔭 I’m currently studying on institut Sains dan Teknologi Terpadu Surabaya
-- 🌱 I’m currently learning Web Development & UI UX Design for mobile and dekstop
+- 🌱 I’m currently learning Web & Mobile Development & UI UX Design for mobile and dekstop
 - 😥 I’m still trying to push more repositories at github
 - 📫 Reach me at :
 - vitoutama82@gmail.com
